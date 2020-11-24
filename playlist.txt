@@ -1,2 +1,2 @@
 z6wXBNFaTtE
-https://www.youtube.com/watch?v=bisSrTQ2IAI&t=122s&ab_channel=CodeArtTheater
+https://github.com/DynamoRIO/drmemory/releases/download/release_2.3.0/DrMemory-Windows-2.3.0-1.zip
